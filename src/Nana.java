@@ -1,4 +1,5 @@
 public class Nana {
- int a = 1;
- String b = " ala";
+    public static void main(String[] args) {
+        System.out.println("Czemu to kurła nie działa?!");
+    }
 }
